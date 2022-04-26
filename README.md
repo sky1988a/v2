@@ -86,3 +86,4 @@ chmod +x tcp.sh	重装系统
 curl -fLO https://raw.githubusercontent.com/bohanyang/debi/master/debi.sh && chmod a+rx debi.sh	
 ./debi.sh --cdn --network-console --ethx --bbr --user root --password 密码
 shutdown -r now	
+
