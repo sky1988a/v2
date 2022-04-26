@@ -1,4 +1,4 @@
-备忘录
+备忘录**
 apt-get update	更新软件
 apt-get upgrade	更新列表
 apt-get install wget && apt-get update -y && apt-get install curl -y  	安装wget,curl
